@@ -86,7 +86,6 @@ At the same time, customers can discover not only the product, but also the **cr
       Digitally document and showcase traditional crafts, knowledge, techniques, and cultural heritage.
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <img src="./craft-stories.jpg" width="100%" alt="Craft Stories">
@@ -125,10 +124,27 @@ Speech Recognition
 Translation
       ↓
 English / Digital Content
-
 ```
 
- # 🖥️ Website Walkthrough
+---
+
+## 🛠️ Technology Stack — KalaSetu
+
+**Frontend:** HTML5, CSS3, JavaScript, React
+
+**Backend:** Node.js, Express.js
+
+**Database:** Browser LocalStorage and IndexedDB
+
+**AI / Machine Learning:** ML-based heritage price estimation, AI catalog prototype, planned LLM, RAG, and AI agents
+
+**APIs and Integrations:** BHASHINI API for multilingual translation and voice services; Razorpay Checkout (test mode)
+
+**Deployment and Hosting:** Cloud-based web hosting with API deployment support, frontend deployment platform to be confirmed
+
+---
+
+# 🖥️ Website Walkthrough
 
 Explore the different sections and features of KalaSetu through the screenshots below. The platform provides an experience for both users exploring traditional crafts and artisans showcasing and managing their work.
 
@@ -183,6 +199,7 @@ Explore the story behind each handcrafted product, including the materials used,
 ## 7. Pricing Breakdown – Know The Product Worth
 
 Overview of the pricing breakdown, by ML estimation.
+
 <p align="center">
   <img src="pricing.jpeg" width="85%" alt="Product Information">
 </p>
@@ -302,3 +319,13 @@ Provides artisans with information about their business performance and progress
 <p align="center">
   <img src="inputdashboard4.jpeg" width="85%" alt="Dashboard Grow">
 </p>
+
+---
+
+## 🌱 Our Vision
+
+KalaSetu aims to make traditional Indian craftsmanship more visible, accessible, and sustainable by combining cultural preservation with digital tools.
+
+By connecting artisans, their stories, and their products with modern audiences, we hope to help traditional crafts reach new communities while preserving the knowledge and heritage behind them.
+
+**KalaSetu — Connecting People. Preserving Heritage.**
