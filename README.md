@@ -1,4 +1,5 @@
- <table width="100%" cellpadding="25" cellspacing="0" bgcolor="#2B1917">
+
+<table width="100%" cellpadding="25" cellspacing="0" bgcolor="#2B1917">
   <tr>
     <td width="28%" align="center" valign="middle">
       <img src="./kalaedited.jpeg" alt="KalaSetu Logo" width="190">
@@ -18,19 +19,32 @@
           Bridging traditional artisans and modern audiences.
         </font>
       </p>
-
-## 🎥 Project Demo
-
-Watch the KalaSetu walkthrough to see the platform and its features in action.
-
-[![Watch KalaSetu Demo on YouTube](https://img.youtube.com/vi/ouG6S4th2M4/0.jpg)](https://youtu.be/ouG6S4th2M4)
-
-**▶ [Watch the full video on YouTube](https://youtu.be/ouG6S4th2M4)**
-
-
     </td>
   </tr>
 </table>
+
+<h2 align="center">🎥 Project Demo</h2>
+
+<p align="center">
+  Watch the KalaSetu walkthrough to explore the platform and its features.
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/ouG6S4th2M4">
+    <img
+      src="https://img.youtube.com/vi/ouG6S4th2M4/0.jpg"
+      alt="Watch KalaSetu Demo on YouTube"
+      width="85%">
+  </a>
+</p>
+
+<p align="center">
+  ▶ <strong>
+    <a href="https://youtu.be/ouG6S4th2M4">
+      Watch the full video on YouTube
+    </a>
+  </strong>
+</p>
 
 <p align="center">
   🌐 <strong>Live Website:</strong>
