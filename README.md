@@ -1,4 +1,4 @@
-<table width="100%" cellpadding="25" cellspacing="0" bgcolor="#2B1917">
+ <table width="100%" cellpadding="25" cellspacing="0" bgcolor="#2B1917">
   <tr>
     <td width="28%" align="center" valign="middle">
       <img src="./kalaedited.jpeg" alt="KalaSetu Logo" width="190">
@@ -21,6 +21,11 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  🌐 <strong>Live Website:</strong>
+  <a href="https://kalasetu-7y6n.onrender.com">Explore KalaSetu →</a>
+</p>
 
 # KalaSetu
 
