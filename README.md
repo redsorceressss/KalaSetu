@@ -18,6 +18,16 @@
           Bridging traditional artisans and modern audiences.
         </font>
       </p>
+
+## 🎥 Project Demo
+
+Watch the KalaSetu walkthrough to see the platform and its features in action.
+
+[![Watch KalaSetu Demo on YouTube](https://img.youtube.com/vi/ouG6S4th2M4/0.jpg)](https://youtu.be/ouG6S4th2M4)
+
+**▶ [Watch the full video on YouTube](https://youtu.be/ouG6S4th2M4)**
+
+
     </td>
   </tr>
 </table>
